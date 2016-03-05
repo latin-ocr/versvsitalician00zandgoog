@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./versvsitalician00zandgoog_0008.png"; bbox 0 0 2910 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 1019 1182 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 1019 1182 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 1019 1182 1155; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 113 1020 648 1155; x_wconf 79' lang='lat' dir='ltr'><strong>CHRISTIANO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 686 1086 698 1109; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 741 1019 1182 1152; x_wconf 82' lang='lat' dir='ltr'><strong>OAVALLIN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 268 1388 1024 1563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 268 1388 1024 1563">
+     <span class='ocr_line' id='line_1_2' title="bbox 268 1388 1024 1563; baseline -0.003 -21"><span class='ocrx_word' id='word_1_4' title='bbox 268 1411 590 1563; x_wconf 79' lang='lat' dir='ltr'><strong>ESAIAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 628 1477 639 1500; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 676 1388 1024 1543; x_wconf 73' lang='lat' dir='ltr'><strong>TEGNER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 1804 973 1879">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 1804 973 1879">
+     <span class='ocr_line' id='line_1_3' title="bbox 321 1804 973 1879; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 321 1805 739 1879; x_wconf 76' lang='lat' dir='ltr'>PRAEOEPTORIBVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 770 1840 778 1856; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 813 1804 973 1877; x_wconf 77' lang='lat' dir='ltr'>AMICIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1460 4778">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1460 4778">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1460 4778; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1460 4778; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
